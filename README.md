@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently studying on [University of moratuwa](faculty of It)
 
-- 🌱 I’m currently learning **React native, React, SpringBoot, Flutter, MySql**
-
 - 💬 Ask me about **react Native, MySql, SpringBoot**
 
 - 📫 How to reach me **hasithamaum@gmail.com**
