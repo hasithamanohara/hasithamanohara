@@ -2,9 +2,6 @@
   <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv" alt="Image" width="600" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm Hasitha manohara</h1>
-<p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjknE5WSTl0f_aUvLzxyN1Nl3MSNlFVZg6CHNqLcNruGxc5VJXGq93ZpiNcXqdRhdipCCRNmj-eSv0KjszLkKUIChk8Tgvjq4SkCy1oXQoBhJLAi6ikQ5ViNhhGnU56lg5u0nDxN-ylCOlljniD0-gP2OcuH71zE0BASsYrtqxvw8wsPOACMoSTkJIT4sZt/s320/pngwing.com.png" width="300" height="300"  align="right">
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasithauom&label=Profile%20views&color=0e75b6&style=flat" alt="hasithauom" /> </p>
 
