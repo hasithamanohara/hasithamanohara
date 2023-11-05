@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Hi 👋, I'm Hasitha manohara</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasithauom&label=Profile%20views&color=0e75b6&style=flat" alt="hasithauom" /> </p>
-
 - 🔭 I’m currently studying on [University of moratuwa](faculty of It)
 
 - 📫 How to reach me **hasithamaum@gmail.com**
